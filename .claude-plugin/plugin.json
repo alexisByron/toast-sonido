@@ -1,0 +1,5 @@
+{
+    "name": "toast-sonido",
+    "version": "0.2.0",
+    "description": "Notificaciones sonoras y visuales: éxito cuando termina, permiso cuando se solicita, error cuando falla."
+}
